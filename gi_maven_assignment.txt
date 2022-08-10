@@ -1,0 +1,27 @@
+GIT and Maven excercises (hands on)
+
+1.Create a local git repository named Zoo
+add three files to the repository:
+a) tiger.txt: contains 2 sentences about tigers
+b) lion.txt: contains 2 lines about Lions
+c) bear.txt: contains 2 lines about Bears
+d) create 3 branches from master branches names tigers,bears and lions
+e) modify files in each branches
+f) create a remote repository in GitHub and link youl local repository to the remote repository.
+g) Push all the branches to the remote repository
+h) merge all the branches to master branch and push the result to remote repository.
+
+
+2.Create a maven jar project using command line and build the project
+3.Import the project to eclipse and execute clean and package goals from eclipse
+4. Create a web application using maven in eclipse and build the project, verify the .war file.
+
+5. Clone the repository using git from the given url:
+https://github.com/sbtalk71/jenkins-demo.git
+
+a) create a GitHub repo named test-app
+b) remove the remote entry from the above cloned project and add a new remote to the project which points to the github repo at (a) above.
+c) push the project to github (test-app)
+d) import the project to eclipse as existing maven project
+e) build the project.
+
